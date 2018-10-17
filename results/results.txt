@@ -9,3 +9,14 @@ Matrix size: 100x100
 Operations: 810
 Path Length: 106
 Run Time (Seconds): 0.059248924255371094
+
+
+=== Raspberry Pi Zero W ===
+
+Matrix size: 100x100
+Operations: 810
+Path Length: 106
+Run Time (Seconds): 3.9392426013946533
+
+Matrix size: 1000x1000
+Unfinished after several minutes
