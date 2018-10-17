@@ -1,0 +1,11 @@
+=== Core i7 (I7-6920HQ) ===
+
+Matrix size: 1000x1000
+Operations: 64308
+Path Length: 1058
+Run Time (Seconds): 38.06047701835632
+
+Matrix size: 100x100
+Operations: 810
+Path Length: 106
+Run Time (Seconds): 0.059248924255371094
